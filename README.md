@@ -14,7 +14,7 @@
 👉 [View Project](https://github.com/dibyashreee/Bank-Customer-Churn-Analysis)
 
 ### ☕ Coffee Shop Sales Analysis
-- Identified peak sales hours (7–10 AM)
+- Identified peak sales hours (8–10 AM)
 - Found top revenue products (Espresso, Chai Tea)
 - Analyzed store performance & AOV trends
 👉 [View Project](https://github.com/dibyashreee/End-to-End-Coffee-Shop-Sales-Analysis)
