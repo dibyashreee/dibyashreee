@@ -31,6 +31,6 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/dibyashreedey/)
-
+[LinkedIn](https://www.linkedin.com/in/dibyashreedey/) ||
 [Email](dibyashree15dey01@gmail.com)
+
