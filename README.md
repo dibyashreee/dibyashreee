@@ -1,7 +1,16 @@
 # Hi, I'm Dibyashree Dey 👋
 
 🎯 Aspiring Data Analyst | Excel • SQL • Python • Power BI  
-📊 Passionate about turning data into business insights  
+   I build end-to-end data analysis projects — from data cleaning to business insights and dashboards.
+
+---
+
+## 🛠 Skills
+
+- Excel (Pivot Tables, Dashboards, Data Cleaning)
+- SQL (PostgreSQL, Business Queries)
+- Power BI (Interactive Dashboards)
+- Python (Pandas, EDA, Visualization)
 
 ---
 
@@ -21,10 +30,6 @@
 
 ---
 
-## 🛠 Skills
-Excel | SQL | Python | Power BI | Data Analysis | Data Visualization
-
----
-
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/dibyashreedey/)
+[Email](dibyashree15dey01@gmail.com)
