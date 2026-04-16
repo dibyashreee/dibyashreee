@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dibyashree Dey 👋
 
-<!--
-**dibyashreee/dibyashreee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Excel • SQL • Python • Power BI  
+📊 Passionate about turning data into business insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🏦 Bank Customer Churn Analysis
+- Identified high-risk customer segments
+- Analyzed churn by age, geography, products
+- Built Power BI dashboard for insights
+👉 [View Project](https://github.com/dibyashreee/Bank-Customer-Churn-Analysis)
+
+### ☕ Coffee Shop Sales Analysis
+- Identified peak sales hours (7–10 AM)
+- Found top revenue products (Espresso, Chai Tea)
+- Analyzed store performance & AOV trends
+👉 [View Project](https://github.com/dibyashreee/End-to-End-Coffee-Shop-Sales-Analysis)
+
+---
+
+## 🛠 Skills
+Excel | SQL | Python | Power BI | Data Analysis | Data Visualization
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/dibyashreedey/)
