@@ -1,4 +1,4 @@
-# Hi, I'm Dibyashree Dey 👋
+# Hello, I'm Dibyashree Dey 👋
 
 🎯 Aspiring Data Analyst | Excel • SQL • Python • Power BI  
    I build end-to-end data analysis projects — from data cleaning to business insights and dashboards.
@@ -32,4 +32,5 @@
 
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/dibyashreedey/)
+
 [Email](dibyashree15dey01@gmail.com)
